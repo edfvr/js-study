@@ -5,6 +5,7 @@ const result = {
     failure: ["no-var", "var-on-top", "linebreak"],
     skipped: ["no-extra-semi", "no-dup-keys"]
 };
+
 function makeList(arr) {
     // Only change code below this line
     const failureItems = [];
