@@ -1,6 +1,5 @@
 /**const findLongestWordLength = (str) => {
     let bag = str.split(" ");
-    console.log(bag)
     let longestLength = 0;
     for (let i = 0; i < bag.length; i++) {
         if (bag[i].length > longestLength) {
