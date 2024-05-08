@@ -1,9 +1,9 @@
 /**
- * confirmEnding checks if a string ends with the target string
- * @param {string} str the main string
- * @param {string} target the target string
- * @returns true if string ends with the target string 
- *          else false
+ * Checks if a string ends with the target string.
+ * @param {string} str The string possibly containing the target string
+ * @param {string} target The string to be matched with the main string.
+ * @returns True if string ends with the target string 
+ *          else false.
  */
 const confirmEnding = (str, target) => {
     if (str.slice(str.length - target.length) === target) return true

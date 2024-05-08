@@ -1,7 +1,7 @@
 /**
- * factorialize finds the factorial of a number
- * @param {number} num 
- * @returns factorial of a number
+ * Calculates the factorial of a given number.
+ * @param {number} num The given number.
+ * @returns The factorial of the given number.
  */
 const factorialize = (num) => {
     if (num < 1) {

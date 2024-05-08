@@ -10,9 +10,9 @@
 }*/
 
 /**
- * findLongestWordLength returns the length of the longest word in a string
- * @param {string} str 
- * @returns the length of longest word in a string
+ * Finds the length of the longest word in a string.
+ * @param {string} str The given string.
+ * @returns The length of longest word in a string.
  */
 function findLongestWordLength (str) {
     let bag = str.split(" ");

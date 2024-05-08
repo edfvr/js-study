@@ -1,6 +1,6 @@
 /**
- * largestOfFour returns an array consisting of the largest number from each provided sub-array
- * @param {object} arr 
+ * Returns an array consisting of the largest number from each provided sub-array
+ * @param {object} arr The given array.
  * @returns an array consisting of the largest number from each provided sub-array
  */
 function largestOfFour(arr) {

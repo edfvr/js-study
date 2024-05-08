@@ -1,7 +1,7 @@
 /**
- * reverseString reverses a string
- * @param {string} str 
- * @returns a reversed string
+ * Reverses a string.
+ * @param {string} str The string to be reversed.
+ * @returns A reversed string.
  */
 function reverseString(str) {
     let newStr = "";
